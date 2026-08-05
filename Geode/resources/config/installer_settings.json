@@ -1,0 +1,19 @@
+{
+  "geode": {
+    "releaseApi": "https://api.github.com/repos/geode-sdk/geode/releases/latest",
+    "supportedGDVersions": ["2.207", "2.2074", "2.208"],
+    "modsSubdir": "geode/mods",
+    "modExtensions": [".geode", ".dll"]
+  },
+  "platforms": {
+    "windows":  { "assetPattern": "geode-installer-v*-win.exe", "zipPattern": "geode-v*-win.zip" },
+    "macos":    { "assetPattern": "geode-installer-v*-mac.pkg", "zipPattern": "geode-v*-mac.zip" },
+    "linux":    { "assetPattern": "geode-installer-v*-linux.sh" },
+    "android":  { "assetPatterns": ["geode-v*-android64.zip", "geode-v*-android32.zip"] },
+    "ios":      { "assetPattern": "geode-v*-ios.zip" }
+  },
+  "featuredMods": [
+    "better-edit", "hitbox-viewer", "run-info", "gdshare",
+    "menuanimfix", "nongd", "gdtweaks"
+  ]
+}

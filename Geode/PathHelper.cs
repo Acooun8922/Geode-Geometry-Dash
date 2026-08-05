@@ -1,0 +1,1 @@
+// Moved to src/Installer/PathHelper.cs. See src/ for the .NET structured project.

@@ -1,0 +1,1 @@
+// Moved to src/Installer/ModInstaller.cs. See src/ for the .NET structured project.
